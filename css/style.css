@@ -94,7 +94,6 @@ body {
     display: block;
     font-size: 6rem;
     font-weight: 400;
-    letter-spacing: 1rem;
     animation: moveInLeft 0.8s;
     -webkit-animation: moveInLeft 0.8s; }
     @media (max-width: 300px) {
@@ -123,7 +122,6 @@ body {
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
-  letter-spacing: 1px;
   transition: all 0.2s; }
   .heading-secondary:hover {
     transform: skewX(15deg) skewY(-2deg) scale(1.1);
