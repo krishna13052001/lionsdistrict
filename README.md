@@ -2,7 +2,7 @@
 
 Packages to be installed are live-server global and node-sass for development
 
-Installation of live-server: npm i live-server <a href="https://www.npmjs.com/package/live-server">Refer this for more Details </a>
+Installation of live-server: npm i live-server <a href="https://www.npmjs.com/package/live-server">Refer this for more Details </a> <br>
 Installation of sass: npm i node-sass --save-dev
 
 After Downloading Run the 
